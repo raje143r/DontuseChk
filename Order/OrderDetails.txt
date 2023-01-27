@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Currently no order in this cart
-=======
-Currently no order in this cartghy
->>>>>>> development/FileReplace
